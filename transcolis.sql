@@ -151,16 +151,16 @@ CREATE TABLE Stocke(
 -- Remplir la table Client
 
 INSERT INTO Client VALUES
-('CL001', 'Amazon', 'R1234', '123 rue des Amazones, Paris', '0123456789'),
-('CL002', 'LDLC', 'R2345', '234 rue de Lyon, Lyon', '0234567891'),
-('CL003', 'Rakuten', 'R3456', '345 rue des Raks, Paris', '0345678912'),
-('CL004', 'eBay', 'R4567', '456 rue de la Baye, Lyon', '0456789123'),
-('CL005', 'Alibaba', 'R5678', '567 rue des Ali, Paris', '0567891234'),
-('CL006', 'Cdiscount', 'R6789', '678 rue des Comptoirs, Lyon', '0678912345'),
-('CL007', 'Zalando', 'R7890', '789 rue des Zalas, Paris', '0789123456'),
-('CL008', 'ASOS', 'R8901', '890 rue des As, Lyon', '0891234567'),
-('CL009', 'Decathlon', 'R9012', '901 rue des Athlètes, Paris', '0912345678'),
-('CL010', 'Fnac', 'R0123', '10 rue de la Fnac, Lyon', '0101234567');
+('CLI001', 'Amazon', 'R1234', '123 rue des Amazones, Paris', '0123456789'),
+('CLI002', 'LDLC', 'R2345', '234 rue de Lyon, Lyon', '0234567891'),
+('CLI003', 'Rakuten', 'R3456', '345 rue des Raks, Paris', '0345678912'),
+('CLI004', 'eBay', 'R4567', '456 rue de la Baye, Lyon', '0456789123'),
+('CLI005', 'Alibaba', 'R5678', '567 rue des Ali, Paris', '0567891234'),
+('CLI006', 'Cdiscount', 'R6789', '678 rue des Comptoirs, Lyon', '0678912345'),
+('CLI007', 'Zalando', 'R7890', '789 rue des Zalas, Paris', '0789123456'),
+('CLI008', 'ASOS', 'R8901', '890 rue des As, Lyon', '0891234567'),
+('CLI009', 'Decathlon', 'R9012', '901 rue des Athlètes, Paris', '0912345678'),
+('CLI010', 'Fnac', 'R0123', '10 rue de la Fnac, Lyon', '0101234567');
 
 -- Remplir la table PointRelais
 
